@@ -1,5 +1,5 @@
 FROM mysql:8.0.19
-MAINTAINER Vova Tkach <vladimirok5959@gmail.com>
+MAINTAINER Volodymyr Tkach <vladimirok5959@gmail.com>
 
 COPY --chown=root:root ./docker /
 
